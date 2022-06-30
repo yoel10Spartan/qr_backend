@@ -13,7 +13,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'qr',
         'USER': 'root',
-        'PASSWORD': 'spartan.123',
+        'PASSWORD': '3#y^bWJGLAMd',
         'HOST': 'localhost',
         'PORT': '3306',
     }
