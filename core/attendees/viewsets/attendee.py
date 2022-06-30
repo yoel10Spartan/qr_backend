@@ -49,7 +49,7 @@ class AttendeeManagement(AttendeBase):
             'id_qr': kwargs['id'],
             'name': kwargs['nombre'],
             'last_name': kwargs['apellidos'],
-            'email': kwargs['correo electronico'],
+            'email': 'correo@email.com',
         }
         
         if cls.model.objects.filter(**values).exists():
