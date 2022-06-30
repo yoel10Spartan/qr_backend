@@ -1,0 +1,1 @@
+web: gunicorn qr_backend.wsgi --log-file -

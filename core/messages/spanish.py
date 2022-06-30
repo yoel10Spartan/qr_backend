@@ -1,0 +1,8 @@
+DETAIL_NO_TYPE = 'Acción invalida'
+DETAIL_SUCCESS_ENTRY = 'Entrada marcada con exito'
+DETAIL_SUCCESS_OUT = 'Salida marcada con exito'
+DETAIL_FAIL_ENTRY = 'No ha marcado salida'
+DETAIL_FAIL_OUT = 'No ha marcado entrada'
+DETAIL_USER_OPERATOR_EVENT_ERROR = 'El usuario o operador no pertenecen a este evento'
+DETAIL_USER_NOT_ADDED_LOUNGE = 'Agrege el usuario a un salon'
+DETAIL_FORMAT_NOT_VALID = 'El formato no es valido, se requiere CSV'
