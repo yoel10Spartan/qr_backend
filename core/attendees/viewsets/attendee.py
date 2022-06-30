@@ -46,9 +46,9 @@ class AttendeeManagement(AttendeBase):
     @classmethod
     def create(cls, **kwargs):
         values = {
-            'id_qr': kwargs['id'],
-            'name': kwargs['nombre'],
-            'last_name': kwargs['apellidos'],
+            'id_qr': kwargs['ID'],
+            'name': kwargs['NOMBRE'],
+            'last_name': kwargs['APELLIDOS'],
             'email': 'correo@email.com',
         }
         
